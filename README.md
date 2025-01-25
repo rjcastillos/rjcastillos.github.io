@@ -7,7 +7,7 @@
 
 ### More about my profesional background in [LinkedIn](https://www.linkedin.com/in/ramon-joseph-castillo-sanchez-ba45a45/)
 
-### [Jira projects](https://rcastillo-team.atlassian.net/jira/projects?page=1&sortKey=name&sortOrder=ASC))
+### [Jira projects](https://rcastillo-team.atlassian.net/jira/projects?page=1&sortKey=name&sortOrder=ASC)
 
 ### [GitHub repositories](https://github.com/rjcastillos)
 
