@@ -1,5 +1,5 @@
 ### On going projects as of January 2025
- - ATS (Automated Trading System): back testing trading strategies with pine , data analysis with Python, Pandas and NumPy . Using deploying cloud platforms to deploy this services.
+ - ATS (Automated Trading System): back testing trading strategies with pine , data analysis with Python, Pandas and NumPy . Using cloud platforms to deploy this services.
  - E-Commerce consulting: development , systems integration , API support and implementation. 
  - Content Management: online presence ,hands-on development,  WordPress management and consulting including, Angular, PHP, etc.. 
 
