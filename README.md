@@ -10,4 +10,3 @@
 
 ### [GitHub repositories](https://github.com/rjcastillos)
 
-data analysis
