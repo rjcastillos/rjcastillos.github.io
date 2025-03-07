@@ -1,4 +1,4 @@
-### On going projects as of February 2025
+### On going projects as of March 2025
  - **ATS (Automated Trading System):** Back testing trading strategies with pine , data analysis with Python, Pandas and NumPy. API design , development and deployment.
  - **On Demand cloud services support:** DevOps and RE expertise in AWS and GCP cloud services.
  - **E-Commerce consulting:** Development , systems integration , API support and implementation. 
