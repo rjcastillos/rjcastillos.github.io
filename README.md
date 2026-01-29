@@ -1,5 +1,5 @@
-### Currently Software Engineer at Rewe Digital Spain , working a DevOps environment
-### Berocam Spain BI data consulting , tasks autmoation and backend development using Python and node
+### Currently Software Engineer at Rewe Digital Spain , working ia a DevOps environment supporting Streaming and Event platforms such as Kafka and MQSeries
+### Until December 2005 BI data consulting at Berocam Spain , tasks automation and backend development using Python and node
 ### Projects as of March 2025
  - **ATS (Automated Trading System):** Back testing trading strategies with pine , data analysis with Python, Pandas and NumPy. API design , development and deployment.
  - **On Demand cloud services support:** DevOps and RE expertise in AWS and GCP cloud services.
