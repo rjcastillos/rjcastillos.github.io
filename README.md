@@ -1,14 +1,21 @@
-### Currently Software Engineer at Rewe Digital Spain , working in a DevOps environment supporting Streaming and Event platforms such as Kafka and MQSeries
-### using Go and Python automating Kubernetes and Terraform tasks.
-### Until December 2025 , BI data consulting at Berocam Spain , tasks automation and backend development using Python and node
-### Projects as of March 2025
- - **ATS (Automated Trading System):** Back testing trading strategies with pine , data analysis with Python, Pandas and NumPy. API design , development and deployment.
- - **On Demand cloud services support:** DevOps and RE expertise in AWS and GCP cloud services.
- - **E-Commerce consulting:** Development , systems integration , API support and implementation. 
- - **Content Management:** Online presence consulting,hands-on development,  ETLs processes to achive Data Transformation (pipeliines) to be stored in SQL and NonSQL Data Bases.  WordPress management , html , css and consulting including, React , PHP and Angular.
+### Currently Software Engineer at REWE digital Spain, working in a DevOps environment supporting streaming and event platforms such as Kafka and MQSeries
+### Using GitHub copilot (Agentic AI) to automate tasks with Go , bash and Python ; hybrid role based in Málaga.
+### Until December 2025, BI data consulting at Berocam Spain — Data Analysis, automation and backend development using Python and Node.js
 
+### Projects (selected)
+- **ATS (Automated Trading System):** Backtesting trading strategies; data analysis with Python, pandas and NumPy; API design, development and deployment.  
+- **On Demand Cloud Services Support:** DevOps and reliability engineering expertise for AWS and GCP cloud services.  
+- **E‑Commerce Consulting:** Systems integration, API support and implementation, platform automation and performance tuning.  
+- **Content Management & Data Pipelines:** Online presence consulting and hands‑on development; ETL pipelines for SQL and NoSQL storage; WordPress, HTML, CSS, React, PHP, Angular.
 
-### More about my profesional background in [LinkedIn](https://www.linkedin.com/in/ramon-joseph-castillo-sanchez-ba45a45/)
+### Key technologies & practices
+- **Languages:** Go, Python, JavaScript (Node.js)  
+- **Streaming & Messaging:** Apache Kafka, MQSeries (legacy MQ)  
+- **Platform & Infra:** Kubernetes, Docker, Terraform, AWS, GCP, Equinix  
+- **DevOps & CI/CD:** GitLab CI, Jenkins, GitHub Copilot (Agentic AI)  
+- **Observability & Data:** Grafana, Prometheus, ELK, Power BI, Qlik Sense, Oracle SQL
+
+### More about my professional background in [LinkedIn](https://www.linkedin.com/in/ramon-joseph-castillo-sanchez-ba45a45/)
 
 ### [Jira projects](https://rcastillo-team.atlassian.net/jira/projects?page=1&sortKey=name&sortOrder=ASC)
 
