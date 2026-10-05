@@ -17,7 +17,7 @@
 * **🏦 Financial Data Pipelines (Berocam Spain):** Served as Senior Operations/BI Analytics Consultant for a Top Tier-1 Spanish Bank. Designed robust ETL infrastructure, automated backend scripting via **Python** / **Node.js**, and executed system telemetry reducing incident **MTTR** and maintaining high **SLA** accuracy.
 * **📈 Automated Trading System (ATS):** Built comprehensive data backtesting software engineering suites using Python ecosystem utilities (**Pandas**, **NumPy**) tied to customized secure **REST APIs**.
 * **☁️ Multi-Cloud Site Reliability Engineering:** Orchestrated cloud-native architectures, container networking, and auto-scaling logic across **AWS (EKS)** and **GCP** utilizing strict GitOps patterns.
-* **🌍 Telecommunications Infrastructure (Syniverse Technologies):** Spent two decades scaling real-time environments worldwide. Directed international DevOps deployment teams for greenfield **A2P API Messaging / WhatsApp Enterprise Platforms** and global data roaming hubs.
+* **🌍 Telecommunications Infrastructure (Syniverse Technologies; USA and Luxembourg ):** Spent two decades scaling real-time environments worldwide. Directed international DevOps deployment teams for greenfield **A2P API Messaging / WhatsApp Enterprise Platforms** and global data roaming hubs.
 
 ---
 
